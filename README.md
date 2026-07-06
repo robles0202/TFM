@@ -68,7 +68,7 @@ de la variabilidad normal entre muestras del mismo grupo.
 
 ## Autor
 
-Rubén Ballester Robles — TFM Bioinformática
+Rubén Ballester Robles
 
 ## Licencia
 
