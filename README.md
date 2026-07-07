@@ -53,8 +53,6 @@ por estar ya disponibles públicamente:
 
 - *Escherichia coli* K-12 MG1655 (NC_000913.3):
   <https://www.ncbi.nlm.nih.gov/nuccore/NC_000913.3>
-- Fago lambda (NC_001416.1):
-  <https://www.ncbi.nlm.nih.gov/nuccore/NC_001416.1>
 
 **3. Datos derivados generados en este trabajo.** Los seis genomas consenso de
 *Escherichia coli* K-12 MG1655 constituyen la entrada directa del análisis de
