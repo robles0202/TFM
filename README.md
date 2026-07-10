@@ -25,9 +25,9 @@ figuras y tablas del trabajo.
 
 - `TFM.py` — script principal. Incluye la lectura de FASTQ/FASTA, el
   conteo y las distribuciones de *k*-mers, las cuatro métricas de complejidad, la
-  generación de los controles aleatorios y la exportación de figuras y tablas. Se
-  controla por línea de comandos mediante subcomandos.
-- `referencias.bib` — bibliografía del trabajo.
+  generación de los controles aleatorios y la exportación de figuras y tablas. Las
+  rutas de los datos y la semilla de aleatoriedad se configuran editando el bloque
+  `if __name__ == "__main__":` situado al final del fichero.
 - `requirements.txt` — dependencias necesarias para ejecutar los análisis.
 - `LICENSE` — licencia del repositorio.
 
@@ -139,7 +139,7 @@ los análisis de Genome Signature, Biobit, IEPWRMkmer y entropía de Shannon.
 
 ## Requisitos
 
-Python 3.9 o superior.
+Python 3.11 o superior.
 
 Instalación de dependencias:
 
