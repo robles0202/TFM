@@ -166,6 +166,8 @@ requieren herramientas externas:
 Estas herramientas no son necesarias si se parte directamente de los genomas
 consenso depositados en Zenodo.
 
+Para la reproducibilidad del código, hice uso de la semilla `356`.
+
 ## Uso
 
 `TFM.py` no tiene interfaz de línea de comandos: las rutas de las
